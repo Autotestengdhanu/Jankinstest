@@ -9,5 +9,10 @@ public class JankinsTest {
 	{
 		System.out.println("Test completed");
 	}
+	@Test
+	public void addTest()
+	{
+		System.out.println("added completed");
+	}
 
 }
